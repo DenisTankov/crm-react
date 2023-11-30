@@ -1,0 +1,49 @@
+{
+  "requests": [
+    {
+      "name": "Денис Таньков",
+      "phone": "9231315013",
+      "email": "denis_tankoff@mail.ru",
+      "product": "course-js",
+      "date": "26.11.2023",
+      "status": "complete",
+      "id": 7
+    },
+    {
+      "name": "Денис Таньков",
+      "phone": "9231315013",
+      "email": "denis_tankoff@mail.ru",
+      "product": "course-js",
+      "date": "26.11.2023",
+      "status": "complete",
+      "id": 9
+    },
+    {
+      "name": "Петр Петров",
+      "phone": "9231505050",
+      "email": "petrov@mail.ru",
+      "product": "course-php",
+      "date": "27.11.2023",
+      "status": "new",
+      "id": 12
+    },
+    {
+      "name": "Петр Петров",
+      "phone": "9231505050434343434",
+      "email": "petrov@mail.ru",
+      "product": "course-php",
+      "date": "27.11.2023",
+      "status": "inwork",
+      "id": 13
+    },
+    {
+      "name": "Петр Петров",
+      "phone": "9231505050",
+      "email": "petrov@mail.ru",
+      "product": "course-php",
+      "date": "27.11.2023",
+      "status": "complete",
+      "id": 14
+    }
+  ]
+}
